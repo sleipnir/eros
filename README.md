@@ -1,2 +1,3 @@
-# eros
-EROS - Erlang Distributed Operate System
+# ErOS
+
+ErOS - Erlang Distributed Operate System
